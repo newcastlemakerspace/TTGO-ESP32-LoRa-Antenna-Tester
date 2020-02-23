@@ -11,7 +11,7 @@
 #include <RH_RF95.h>
 #include <CryptoLW.h>
 #include <Speck.h>
-#include <ElapsedMillis.h>
+#include <elapsedMillis.h>
 #ifdef USEDISPLAY
     #include <Wire.h>
     #include "SSD1306Wire.h"
